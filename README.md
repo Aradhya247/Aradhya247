@@ -1,6 +1,6 @@
 Hi I'm Aradhya Mishra👋
 
-✨i am an enthusiastic python developer interested in backend and making data-driven insight for bussinesses  ✨ 
+✨i am an Enthusiastic python developer interested in backend and Data Analysis for making data-driven insight for bussinesses  ✨ 
 
 
 
